@@ -2,7 +2,8 @@
   "name": "react-ts-base64-image-encoder",
   "version": "1.0.0",
   "description": "A React Component that base64 encodes a image and return it as a string so\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C.",
-  "main": "\u001b[D\u001btsx\u001b[C\u001b[D)\u001b[C",
+  "main": "index.tsx",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -29,7 +30,7 @@
     "react-dom": "^16.8.0"
   },
   "bugs": {
-    "url": "https://github.com/UnknownMonk/typescript-nextjs-base64-image-uploader/issues"
+    "url": "https://https://github.com/UnknownMonk/React-Ts-Base64-Image-Encoder/issues"
   },
-  "homepage": "https://github.com/UnknownMonk/typescript-nextjs-base64-image-uploader#readme"
+  "homepage": "https://https://github.com/UnknownMonk/React-Ts-Base64-Image-Encoder#readme"
 }
